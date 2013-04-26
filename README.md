@@ -1,2 +1,3 @@
 Unser erstes Git Projekt
 Was auch immer...
+Ich hätte lieber diese Zeile.
